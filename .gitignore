@@ -1,0 +1,5 @@
+# folder logs
+logs/
+
+# ignore only files *.txt
+docs/*.txt
